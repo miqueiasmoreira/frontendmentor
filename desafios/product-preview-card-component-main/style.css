@@ -26,7 +26,7 @@ body {
 main {
     box-shadow: 1px 1px 5px var(--cor4Darkgrayishblue);
     text-align: left;
-    background-color: var(--cor5White);
+    background-color: white;
     border-radius: 10px;
     padding: none;
     margin: auto;
